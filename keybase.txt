@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cosullivan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.cosullivan.dev
+  * I am cosullivan (https://keybase.io/cosullivan) on keybase.
+  * I have a public key ASDuLvsrefFei646ACPAAO_JWzjbwO89PlUcwM6FLRI_EAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012097b75e1f5051c645a18bee6dd6ff66bf69727fe312986a3ab407a998412e05de0a",
+      "host": "keybase.io",
+      "kid": "0120ee2efb2b79f15e8bae3a0023c000efc95b38dbc0ef3d3e551cc0ce852d123f100a",
+      "uid": "f306724258487abfe8547a40aebda319",
+      "username": "cosullivan"
+    },
+    "merkle_root": {
+      "ctime": 1647750191,
+      "hash": "1f267bbca2bd02d2b73e7e6524c1d34fe214e361ce4a7cd34ea2508c60e8a20c477195d88d4235b68d48e5cd5b0944d3a1ec2d08d318786cc882e575805d25be",
+      "hash_meta": "98bf340cbafc9930edfcb714938f0157fbdb8d5c1cfb5b3e294ade3f93799e97",
+      "seqno": 22122552
+    },
+    "service": {
+      "entropy": "hmKNxnr/zm3Gpy051UZZ3uh3",
+      "hostname": "www.cosullivan.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1647750220,
+  "expire_in": 504576000,
+  "prev": "992c8b17f7012e933fb4f538120bce061b37af6d1aa78f2b5f189081d47d7b66",
+  "seqno": 72,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7i77K3nxXouuOgAjwADvyVs428DvPT5VHMDOhS0SPxAKp3BheWxvYWTESpcCSMQgmSyLF/cBLpM/tPU4EgvOBhs3r20ap48rXxiQgdR9e2bEID/LnuUC1VqQqNe8N2bHrlvgMMO6Q1Mtts+OSWmfThKrAgHCo3NpZ8RAZ1fBGM3mL+d2KE4oPDiq6zhp/2M5MfaiMLs3AjMjIRf53m9BIlj9MVfmduAySjnKg31RzxK/Jl+LxQnXRZMUDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGQ0WjbrvgJ0Mw3KujFTbeg3HObB/KTbByt/k1ZpzwMho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cosullivan
+
+==================================================================
